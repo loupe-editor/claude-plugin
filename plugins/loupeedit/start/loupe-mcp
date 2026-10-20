@@ -1,0 +1,3 @@
+#!/bin/sh
+export LOUPE_FROM=market
+exec "$HOME/.loupe/bin/loupe-mcp" "$@"

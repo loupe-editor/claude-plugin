@@ -1,0 +1,11 @@
+{
+ "name": "loupeedit",
+ "displayName": "LoupeEdit",
+ "version": "1.0.0",
+ "description": "Claude edits your cut in LoupeEdit while you watch: the loupe tools and the editing rules. Needs LoupeEdit installed and opened once.",
+ "author": {
+  "name": "LoupeEdit",
+  "url": "https://loupeedit.com"
+ },
+ "homepage": "https://loupeedit.com"
+}

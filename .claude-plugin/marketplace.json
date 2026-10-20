@@ -1,0 +1,15 @@
+{
+ "name": "loupeedit",
+ "owner": {
+  "name": "LoupeEdit",
+  "url": "https://loupeedit.com"
+ },
+ "description": "LoupeEdit for Claude",
+ "plugins": [
+  {
+   "name": "loupeedit",
+   "source": "./plugins/loupeedit",
+   "description": "Claude edits your cut in LoupeEdit while you watch: the loupe tools and the editing rules. Needs LoupeEdit installed and opened once."
+  }
+ ]
+}
